@@ -1,0 +1,31 @@
+h1{
+ text-align: center;
+ border: solid;
+ color:green;
+
+}
+
+#blue-bordered{
+    border: 15px dashed blue;
+
+
+}
+
+.box{
+    text-align: center;
+    color:orange;
+
+}
+h3{
+    text-align: center;
+    background-color: crimson;
+}
+
+article >p{
+    font-weight: bold;
+    background-color: #333;
+    color: yellow;
+    padding: 5em;
+    text-align: left
+
+}
